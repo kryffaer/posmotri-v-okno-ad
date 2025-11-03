@@ -76,6 +76,11 @@ video {
     margin: 0 0 11px;
 }
 
+.result__video-container,
+.content__list-container {
+    position: relative;
+}
+
 .search-form {
     display: flex;
     align-items: center;
@@ -295,3 +300,4 @@ video {
     object-fit: cover;
     object-position: center;
 }
+
